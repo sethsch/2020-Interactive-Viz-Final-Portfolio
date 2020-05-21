@@ -28,7 +28,7 @@ The main plot is a cleveland dot plot, configured to show % changes in document 
 
 #### Media from the project:
 
-![](exploratory_final_video.mov)
+A video walkthrough of an early version posted to the class Slack for critiques is [available here](https://drive.google.com/open?id=1f192v8xOzLxR44n-W73qqlXLX9KQ4R70), while a video walkthrough of the final version and explaining some of the data/functionality limitations is [available here](https://drive.google.com/open?id=1uYouMF1gw-aGw2mugchEYRxKRhDUa9fF).
 
 #### Data: 
 
@@ -46,11 +46,11 @@ Using the CoronaNet Reserach Project's "Tracking government responses towards CO
 
 #### [Deployed path] (https://sethsch.github.io/Interactive-Data-Vis-Sp2020/narrative_finalPost/blog-post.html)
 
-### [Final project files] (https://github.com/sethsch/Interactive-Data-Vis-Sp2020/tree/master/narrative_finalPost)
+#### [Final project files] (https://github.com/sethsch/Interactive-Data-Vis-Sp2020/tree/master/narrative_finalPost)
 
 
 #### Media from the project:
-![](narrative_project_recording.mov)
+A video walkthrough of the final project can be [found here.](https://drive.google.com/open?id=1H1iVD-aQcnBaLwnUwO1e35AruEWPy555)
 
 
 #### Data: 
