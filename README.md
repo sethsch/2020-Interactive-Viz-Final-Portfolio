@@ -17,9 +17,9 @@ The project was centered around a dataset of keyword document frequencies by yea
 
 The main plot is a cleveland dot plot, configured to show % changes in document frequency between two selected years.  The aim is to facilitate trend analysis and allow a user to select a window of time and region to examine; this would serve as an exploratory dashboard so that a user can explore the dataset from afar before jumping in to undertake careful reading and qualitative analysis.
 
-#### [Deployed path] (https://sethsch.github.io/Interactive-Data-Vis-Sp2020/exploratory_project/)
+#### [Deployed path](https://sethsch.github.io/Interactive-Data-Vis-Sp2020/exploratory_project/)
 
-### [Project Files] (https://github.com/sethsch/Interactive-Data-Vis-Sp2020/tree/master/exploratory_project)
+#### [Project Files](https://github.com/sethsch/Interactive-Data-Vis-Sp2020/tree/master/exploratory_project)
 
 #### Artifacts of the design process: 
 ![](exploratory_mockupsketch.png)
@@ -44,9 +44,9 @@ This project was inspired both by a desire to get away from linguistic data anal
 
 Using the CoronaNet Reserach Project's "Tracking government responses towards COVID-19" dataset, I created beeswarm plots that display swarms of activity for a given type of policy.  Instead of displaying by calendar date, I computed the relative date of each policy with respect to the first confirmed case of covid-19 in that country.  To examine the policies that were announced at a given time and see which were announced proactively and which were announced reactively, users can use a slider to hone in on a period of the pandemic by the scale of the outbreak and then use dropdowns to select specific countries or regions.
 
-#### [Deployed path] (https://sethsch.github.io/Interactive-Data-Vis-Sp2020/narrative_finalPost/blog-post.html)
+#### [Deployed path](https://sethsch.github.io/Interactive-Data-Vis-Sp2020/narrative_finalPost/blog-post.html)
 
-#### [Final project files] (https://github.com/sethsch/Interactive-Data-Vis-Sp2020/tree/master/narrative_finalPost)
+#### [Final project files](https://github.com/sethsch/Interactive-Data-Vis-Sp2020/tree/master/narrative_finalPost)
 
 
 #### Media from the project:
